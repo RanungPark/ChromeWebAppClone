@@ -1,3 +1,8 @@
-const hellos = document.getElementsByClassName('hello');
+const loginInput = document.querySelector('#login-form input');
+const loginButton = document.querySelector('#login-form button');
 
-hellos[1].innerHTML("Got you!");
+function onLoginBtnClick() {
+  const username = loginInput.value;
+  console.log(username);
+}
+loginButton.addEventListener("click", onLoginBtnClick);
