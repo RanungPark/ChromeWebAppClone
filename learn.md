@@ -23,3 +23,5 @@ isNaN 불리언으로 return 해준다 숫자인지 아닌지 알려준다 숫�
 - placeholder와 value중 value가 선입력된다 place holder은 value가 입력되면 보이지 않는다 보통 paseword에서 사용된다
 - form 안에 엔터를 누르고 input이 더 존재하지 않는다면 자동으로 submit된다
 - .preventDefault event의 기본 행동이든지 발생되지 않도록 막는다
+- form의 기본동작은 submit이다
+- 링크의 기본동작은 클릭시 다른 페이지로 이동하는것
