@@ -26,3 +26,4 @@ isNaN 불리언으로 return 해준다 숫자인지 아닌지 알려준다 숫�
 - form의 기본동작은 submit이다
 - 링크의 기본동작은 클릭시 다른 페이지로 이동하는것
 - 스트링만 표기된 문자는 대문자로만 표기한다
+- 무언가를 저장하는 기능(유저 볼륨 등등)localStorage,sessionStorage,webSQL,indexedDB,Cookies
