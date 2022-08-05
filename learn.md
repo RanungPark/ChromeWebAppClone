@@ -27,3 +27,7 @@ isNaN 불리언으로 return 해준다 숫자인지 아닌지 알려준다 숫�
 - 링크의 기본동작은 클릭시 다른 페이지로 이동하는것
 - 스트링만 표기된 문자는 대문자로만 표기한다
 - 무언가를 저장하는 기능(유저 볼륨 등등)localStorage,sessionStorage,webSQL,indexedDB,Cookies
+- setInterval 시간간격을 주면서 함수 호출
+- setTimeout 정해진 시간뒤에 함수 호출
+- new Date() date 함수의 객체를 사용할수 있게 해줌(년도,월,일,요일,시간등을 알수 있음
+- .padStart 원하는 길이만큼 단어의 길이가 늘어나고 남은 부분을 앞에서부터 원하는 단어로 채워줌(.padEnd는 뒤에)
