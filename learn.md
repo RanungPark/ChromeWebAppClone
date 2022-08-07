@@ -31,3 +31,5 @@ isNaN 불리언으로 return 해준다 숫자인지 아닌지 알려준다 숫�
 - setTimeout 정해진 시간뒤에 함수 호출
 - new Date() date 함수의 객체를 사용할수 있게 해줌(년도,월,일,요일,시간등을 알수 있음
 - .padStart 원하는 길이만큼 단어의 길이가 늘어나고 남은 부분을 앞에서부터 원하는 단어로 채워줌(.padEnd는 뒤에)
+- JSON.stringify() 는 배열이든 객체든 모두 스트링으로 바꿔줌(JSON.parse는 반대로 스트링을 바꿔줌)
+- filter item을 지우는것이 아니라 item을 제외한 배열을 새로 만듬 true일때 새로운 배열에 추가되고 false는 추가되지 않는다
