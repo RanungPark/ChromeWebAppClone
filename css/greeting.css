@@ -1,0 +1,22 @@
+#login-div {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+#login-div span{
+  font-size: 50px;
+}
+
+#greeting {
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+#login-form input {
+  border:none;
+  border-bottom: 3px solid rgb(255, 255, 255);
+  background: transparent;
+  width: 250px;
+  margin-top: 50px;
+  height: 30px;
+}

@@ -1,0 +1,8 @@
+#quote {
+  color: rgb(255, 255, 255);
+  position: fixed;
+  bottom: 1em;
+  text-align: center;
+  width: 100%;
+  font-size: 10px;
+}
